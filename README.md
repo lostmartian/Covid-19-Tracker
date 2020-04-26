@@ -11,5 +11,5 @@ This is website which displays a realtime graph of covid19 statewise stats in In
 </ul>
 </p>
 <p>
-  <image src="https://raw.githubusercontent.com/lostmartian/Covid-19-Tracker/master/feel.png" height=800 width=1500>
+  <image src="https://raw.githubusercontent.com/lostmartian/Covid-19-Tracker/master/feel.png" height=600 width=1500>
     </p>
